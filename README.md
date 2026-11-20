@@ -1,4 +1,4 @@
-# 🌸 BuyBloom — The AI Greenwashing Detective 🕵️‍♂️🌿
+# BuyBloom — The AI Greenwashing Detective
 ### *Because slapping a green leaf emoji on plastic packaging doesn't make it biodegradable.*
 
 > **"Looks Green. Really? Before you buy, Let's spy."**  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🎓 The AI Foundations Behind BuyBloom
+## The AI Foundations Behind BuyBloom
 
 BuyBloom isn't just a pretty 3D valley; it is engineered directly on classic and modern **Artificial Intelligence principles**:
 
@@ -39,7 +39,7 @@ BuyBloom unites the two great tribes of artificial intelligence:
 
 ---
 
-## 📸 Visual Walkthrough
+## Visual Walkthrough
 
 ### 1. 3D Procedural Floral Valley Engine
 Built with Three.js and WebGL GLSL shaders, featuring dynamic atmospheric bloom, acoustic night-garden soundscapes, and procedural terrain growth.
@@ -59,7 +59,7 @@ Scroll down to trace the verified **Ecological Strengths** against potential **E
 
 ---
 
-## 🧠 AI Architecture: Where, When & How
+## AI Architecture: Where, When & How
 
 ```
 [ User Pastes E-Commerce Link ]
@@ -129,7 +129,7 @@ Scroll down to trace the verified **Ecological Strengths** against potential **E
 
 ---
 
-## 🕷️ How Web Scraping is Engineered
+## How Web Scraping is Engineered
 
 E-commerce sites deploy aggressive anti-bot shields and Cloudflare walls. BuyBloom uses a multi-tier Python scraping pipeline:
 
@@ -179,7 +179,7 @@ E-commerce sites deploy aggressive anti-bot shields and Cloudflare walls. BuyBlo
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technologies |
 |---|---|
@@ -191,12 +191,12 @@ E-commerce sites deploy aggressive anti-bot shields and Cloudflare walls. BuyBlo
 
 ---
 
-## 📄 Documentation
+## Documentation
 
 - [explainable.md](explainable.md) — Comprehensive deep dive into the AI models, algorithms, and sustainability scoring criteria.
 
 ---
 
-## 📜 License
+## License
 
 MIT License — free for educational and personal use.
