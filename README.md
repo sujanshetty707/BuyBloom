@@ -6,7 +6,7 @@
 
 ---
 
-## 🎓 The AI Foundations Behind BuyBloom *(Based on Essentials of AI)*
+## 🎓 The AI Foundations Behind BuyBloom
 
 BuyBloom isn't just a pretty 3D valley; it is engineered directly on classic and modern **Artificial Intelligence principles**:
 
@@ -188,34 +188,6 @@ E-commerce sites deploy aggressive anti-bot shields and Cloudflare walls. BuyBlo
 | **Backend** | Python 3, Flask, Flask-CORS |
 | **Scraping & Ingestion** | Requests, BeautifulSoup4 (`html.parser`), JSON-LD |
 | **AI & NLP** | Google Gemini API (`gemini-3.8-flash` / `gemini-3.5-flash`), Custom Heuristic Rule Engine |
-
----
-
-## 🚀 Quick Start
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/sujanshetty707/BuyBloom.git
-cd BuyBloom
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Set up environment variables
-Create a `.env` file in the root directory:
-```env
-GEMINI_API_KEY=your_google_gemini_api_key_here
-PORT=3000
-```
-
-### 4. Run the server
-```bash
-python server.py
-```
-Open **`http://localhost:3000`** in your browser.
 
 ---
 
